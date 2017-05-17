@@ -18,6 +18,7 @@
   "homepage": "https://github.com/pandyrichter/wf-test#readme",
   "dependencies": {
     "jquery": "^3.2.1",
+    "jquery-smooth-scroll": "^2.2.0",
     "normalize.css": "^6.0.0",
     "vue": "^2.3.2",
     "waypoints": "^4.0.1"
